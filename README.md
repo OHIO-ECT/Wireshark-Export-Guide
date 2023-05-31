@@ -1,4 +1,4 @@
-##Exporting Wireshark Packet Data for ECT Student Lab Reports
+## Exporting Wireshark Packet Data for ECT Student Lab Reports
 
 
 Most reports that students will write for this class will require the student to properly export packet data from Wireshark into a text format. They will use it to support answers in the lab reports. Taking screenshots of the Wireshark interface is an unacceptable method of displaying the packet data needed for lab reports. Wireshark supports a very easy to use EXPORT function that will save both the Summary Line and the Packet Details that you will want for every packet you use in your reports.
