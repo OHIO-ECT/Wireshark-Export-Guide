@@ -20,4 +20,4 @@ Wireshark display.
 
 ![](./images/image2.png)
 
-6. Packet output in a lab report should **ALWAYS** have **at least** the packet summary line.
+6. Packet output in a lab report should **ALWAYS** have **at least** the packet summary line with column headers.
